@@ -1,0 +1,34 @@
+.nav>li>a:hover {
+    background-color: rgba(7, 7, 7, 1)00;
+    font-weight: 700;
+}
+
+.rotated {
+    transform: rotate(-90deg);
+    margin-bottom: 40px;
+    /* Equal to rotateZ(45deg) */
+}
+
+.roboto__bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.roboto__medium {
+    font-family: 'Roboto', serif;
+    font-weight: 500;
+}
+
+.roundBtn {
+    border-radius: 17px;
+    min-width: 180px;
+}
+
+li {
+    list-style: none;
+}
+
+.footer {
+    width: 344px;
+    margin: 0 auto;
+}
